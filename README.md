@@ -20,7 +20,7 @@ AI-powered Resume Enhancement System
   - Keyword alignment for specific job descriptions
 
 - Multi-Agent Analysis
-  - Parallel evaluation across 5 specialized AI models
+  - Claude, Gemini, Grok and Perplexity review each section in parallel; GPT-4o (the decision engine) picks and applies the best improvements
   - Aggregated insights for improved accuracy
 
 - Resume Builder
